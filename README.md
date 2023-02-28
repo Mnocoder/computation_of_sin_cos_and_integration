@@ -2,7 +2,7 @@
 <br/> Tools: MATLAB
 <br/>
 <br/>
-Sin and Cos:
+Sin and Cos :
 <br/>  Computational technique to find Sin and Cosine of a radian valueusing taylor series
 <br/>
 Integration : 
